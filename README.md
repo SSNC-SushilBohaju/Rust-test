@@ -1,1 +1,1 @@
-# Rust-test
+# smartai_rust
